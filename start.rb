@@ -1,6 +1,6 @@
 #! /Users/Martin/.rvm/rubies/ruby-2.3.0/bin/ruby
 # Objectives
-# 
+#
 # 1. Working with files: require features and load config files
 # 2. Environment variables
 # 3. Setup a typical ruby skeleton project
@@ -39,3 +39,4 @@ puts MBDrones::MY_CONST
 
 # Access the environmental variable MARTINS_CAR from Ruby
 puts ENV['MARTINS_CAR']
+puts "Das war ein schöner Flug."
