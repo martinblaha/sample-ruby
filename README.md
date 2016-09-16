@@ -12,3 +12,4 @@ This is just a skeleton of a typical Ruby application. Clone and run `bundle ins
 ### TODO
 
 - add tests
+- fix lib/drone directory (isn't being loaded yet)
