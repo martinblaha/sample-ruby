@@ -40,3 +40,9 @@ puts MBDrones::MY_CONST
 # Access the environmental variable MARTINS_CAR from Ruby
 puts ENV['MARTINS_CAR']
 puts "Das war ein schöner Flug."
+
+# ____                      ___   _
+# |  _ \ ___  __ _  ___ ___ ( _ ) | |    _____   _____
+# | |_) / _ \/ _` |/ __/ _  / _ \/| |   / _ \ \ / / _ \
+# |  __|  __| (_| | (_|  __| (_>  | |__| (_) \ V |  __/
+# |_|   \___|\__,_|\___\___ \___/\|_____\___/ \_/ \___|
