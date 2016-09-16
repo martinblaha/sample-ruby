@@ -1,0 +1,7 @@
+about:
+  title:        "Drone"
+  description:  "A simple drone simulator"
+  author:       "Martin Blaha"
+  version:      "0.0.1"
+  github:       ""
+log_file:       "development.log"

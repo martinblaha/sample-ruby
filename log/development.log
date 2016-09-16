@@ -1,0 +1,222 @@
+# Logfile created on 2016-09-15 21:21:47 +0200 by logger.rb/53141
+I, [2016-09-15T21:22:56.314882 #51129]  INFO -- : App started
+I, [2016-09-15T21:23:37.508075 #51178]  INFO -- : App started
+I, [2016-09-15T21:24:42.674911 #51213]  INFO -- : App started
+I, [2016-09-15T21:25:19.670550 #51237]  INFO -- : App started
+I, [2016-09-15T21:25:52.951863 #51264]  INFO -- : App started
+I, [2016-09-15T21:26:14.367178 #51292]  INFO -- : App started
+I, [2016-09-15T21:26:19.768605 #51315]  INFO -- : App started
+I, [2016-09-15T21:26:27.904461 #51339]  INFO -- : App started
+I, [2016-09-15T21:26:27.909338 #51339]  INFO -- : Drone {"name"=>"Novice", "home"=>{"latitude"=>49.718229, "longitude"=>7.626646}, "height"=>0, "battery"=>100, "speed"=>0}
+I, [2016-09-15T21:26:36.883388 #51361]  INFO -- : App started
+I, [2016-09-15T21:26:36.887304 #51361]  INFO -- : Drone {"name"=>"Novice", "home"=>{"latitude"=>49.718229, "longitude"=>7.626646}, "height"=>0, "battery"=>100, "speed"=>0}
+I, [2016-09-15T21:26:42.786655 #51385]  INFO -- : App started
+I, [2016-09-15T21:26:42.798054 #51385]  INFO -- : Drone {"name"=>"Novice", "home"=>{"latitude"=>49.718229, "longitude"=>7.626646}, "height"=>0, "battery"=>100, "speed"=>0}
+I, [2016-09-15T21:27:22.419988 #51455]  INFO -- : App started
+D, [2016-09-15T21:27:22.423927 #51455] DEBUG -- : Drone created: {"name"=>"Novice", "home"=>{"latitude"=>49.718229, "longitude"=>7.626646}, "height"=>0, "battery"=>100, "speed"=>0}
+I, [2016-09-15T21:28:36.564558 #51725]  INFO -- : App started
+D, [2016-09-15T21:28:36.568529 #51725] DEBUG -- : Drone created: {"name"=>"Novice", "home"=>{"latitude"=>49.718229, "longitude"=>7.626646}, "height"=>0, "battery"=>100, "speed"=>0}
+I, [2016-09-15T21:39:02.513065 #51799]  INFO -- : App started
+D, [2016-09-15T21:39:02.517034 #51799] DEBUG -- : Drone  created: {"name"=>"Novice", "home"=>{"latitude"=>49.718229, "longitude"=>7.626646}, "height"=>0, "battery"=>100, "speed"=>0}
+I, [2016-09-15T21:39:26.050622 #51824]  INFO -- : App started
+D, [2016-09-15T21:39:26.054667 #51824] DEBUG -- : Drone  created: {"name"=>"Novice", "home"=>{"latitude"=>49.718229, "longitude"=>7.626646}, "height"=>0, "battery"=>100, "speed"=>0}
+I, [2016-09-15T21:40:21.733051 #51870]  INFO -- : App started
+D, [2016-09-15T21:40:21.737590 #51870] DEBUG -- : Drone  created: {"name"=>"Novice", "home"=>{"latitude"=>49.718229, "longitude"=>7.626646}, "height"=>0, "battery"=>100, "speed"=>0}
+I, [2016-09-15T21:41:26.122157 #51901]  INFO -- : App started
+D, [2016-09-15T21:41:26.126319 #51901] DEBUG -- : Drone  created: {"name"=>"Novice", "home"=>{"latitude"=>49.718229, "longitude"=>7.626646}, "height"=>0, "battery"=>100, "speed"=>0}
+I, [2016-09-15T22:32:15.563761 #52087]  INFO -- : App started
+D, [2016-09-15T22:32:15.568886 #52087] DEBUG -- : Drone  created: {"name"=>"Novice", "home"=>{"latitude"=>49.718229, "longitude"=>7.626646}, "height"=>0, "battery"=>100, "speed"=>0}
+I, [2016-09-15T22:33:32.740768 #52118]  INFO -- : App started
+D, [2016-09-15T22:33:32.746097 #52118] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:33:32.746213 #52118] DEBUG -- : Drone  created: {"name"=>"Novice", "home"=>{"latitude"=>49.718229, "longitude"=>7.626646}, "height"=>0, "battery"=>100, "speed"=>0}
+I, [2016-09-15T22:34:00.400090 #52140]  INFO -- : App started
+D, [2016-09-15T22:34:00.404206 #52140] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:34:00.404318 #52140] DEBUG -- : Drone Hollaholo created: {"name"=>"Novice", "home"=>{"latitude"=>49.718229, "longitude"=>7.626646}, "height"=>0, "battery"=>100, "speed"=>0}
+I, [2016-09-15T22:41:23.314705 #52174]  INFO -- : App started
+D, [2016-09-15T22:41:23.319422 #52174] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:41:23.319477 #52174] DEBUG -- : Drone Hollaholo created: 
+I, [2016-09-15T22:41:56.188227 #52199]  INFO -- : App started
+D, [2016-09-15T22:41:56.192988 #52199] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:41:56.193045 #52199] DEBUG -- : Drone Hollaholo created: 
+I, [2016-09-15T22:42:35.375772 #52225]  INFO -- : App started
+D, [2016-09-15T22:42:35.380383 #52225] DEBUG -- : Options {:name=>"Hollaholo"}
+I, [2016-09-15T22:43:01.839912 #52250]  INFO -- : App started
+D, [2016-09-15T22:43:01.846100 #52250] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:43:01.846188 #52250] DEBUG -- : Drone Hollaholo created: 
+I, [2016-09-15T22:43:28.423467 #52272]  INFO -- : App started
+D, [2016-09-15T22:43:28.427546 #52272] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:43:28.427613 #52272] DEBUG -- : Drone Hollaholo created: 
+I, [2016-09-15T22:43:59.663734 #52298]  INFO -- : App started
+D, [2016-09-15T22:43:59.667916 #52298] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:43:59.667965 #52298] DEBUG -- : Position 
+D, [2016-09-15T22:43:59.668006 #52298] DEBUG -- : Drone Hollaholo created: 
+I, [2016-09-15T22:44:24.735362 #52320]  INFO -- : App started
+D, [2016-09-15T22:44:24.739757 #52320] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:44:24.739806 #52320] DEBUG -- : Position 
+D, [2016-09-15T22:44:24.740298 #52320] DEBUG -- : Drone Hollaholo created: 
+I, [2016-09-15T22:45:55.436402 #52348]  INFO -- : App started
+D, [2016-09-15T22:45:55.441113 #52348] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:45:55.441157 #52348] DEBUG -- : Position 
+I, [2016-09-15T22:46:52.675941 #52378]  INFO -- : App started
+D, [2016-09-15T22:46:52.680592 #52378] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:46:52.680638 #52378] DEBUG -- : Position 
+I, [2016-09-15T22:47:14.753369 #52400]  INFO -- : App started
+D, [2016-09-15T22:47:14.758434 #52400] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:47:14.758491 #52400] DEBUG -- : Position 
+I, [2016-09-15T22:47:22.035836 #52423]  INFO -- : App started
+D, [2016-09-15T22:47:22.040700 #52423] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:47:22.040752 #52423] DEBUG -- : Position 
+D, [2016-09-15T22:47:22.041196 #52423] DEBUG -- : Drone Hollaholo created: 
+I, [2016-09-15T22:47:51.198767 #52474]  INFO -- : App started
+D, [2016-09-15T22:47:51.203492 #52474] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:47:51.203539 #52474] DEBUG -- : Position 
+D, [2016-09-15T22:47:51.203582 #52474] DEBUG -- : Drone Hollaholo created: 
+I, [2016-09-15T22:48:10.896987 #52496]  INFO -- : App started
+D, [2016-09-15T22:48:10.901080 #52496] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:48:10.901125 #52496] DEBUG -- : Position 
+D, [2016-09-15T22:48:10.901160 #52496] DEBUG -- : Drone Hollaholo created: 
+I, [2016-09-15T22:48:41.544044 #52525]  INFO -- : App started
+D, [2016-09-15T22:48:41.548208 #52525] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:48:41.548259 #52525] DEBUG -- : Position 
+D, [2016-09-15T22:48:41.548295 #52525] DEBUG -- : Drone Hollaholo created: 
+I, [2016-09-15T22:49:11.788903 #52546]  INFO -- : App started
+D, [2016-09-15T22:49:11.793574 #52546] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:49:11.793627 #52546] DEBUG -- : Position 
+D, [2016-09-15T22:49:11.793695 #52546] DEBUG -- : Drone Hollaholo created: {"latitude"=>49.718229, "longitude"=>7.626646}
+I, [2016-09-15T22:49:45.008956 #52574]  INFO -- : App started
+D, [2016-09-15T22:49:45.014203 #52574] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:49:45.014261 #52574] DEBUG -- : Position 
+D, [2016-09-15T22:49:45.014325 #52574] DEBUG -- : Drone Hollaholo created: {"latitude"=>49.718229, "longitude"=>7.626646}
+I, [2016-09-15T22:50:42.767183 #52609]  INFO -- : App started
+D, [2016-09-15T22:50:42.771906 #52609] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:50:42.771963 #52609] DEBUG -- : Position 
+D, [2016-09-15T22:50:42.772037 #52609] DEBUG -- : Drone Hollaholo created: #<Drone:0x007ff8a493d920 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T22:51:02.698363 #52636]  INFO -- : App started
+D, [2016-09-15T22:51:02.703212 #52636] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:51:02.703268 #52636] DEBUG -- : Position 
+D, [2016-09-15T22:51:02.703337 #52636] DEBUG -- : Drone #<Drone:0x007fab9301de70 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0> created.
+I, [2016-09-15T22:51:13.829509 #52660]  INFO -- : App started
+D, [2016-09-15T22:51:13.835293 #52660] DEBUG -- : Options {:name=>"Hollaholo"}
+D, [2016-09-15T22:51:13.835394 #52660] DEBUG -- : Position 
+D, [2016-09-15T22:51:13.835484 #52660] DEBUG -- : Drone created: #<Drone:0x007ff97d036168 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T22:52:57.918791 #52697]  INFO -- : App started
+D, [2016-09-15T22:52:57.922799 #52697] DEBUG -- : Creating drone with options: {:name=>"Hollaholo"}
+D, [2016-09-15T22:52:57.922888 #52697] DEBUG -- : Drone created: #<Drone:0x007fc24384def8 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T22:56:22.027073 #52725]  INFO -- : App started
+D, [2016-09-15T22:56:22.032676 #52725] DEBUG -- : Creating drone with options: {:name=>"Hollaholo"}
+D, [2016-09-15T22:56:22.032881 #52725] DEBUG -- : Drone created: #<Drone:0x007fdac480d710 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T22:56:31.061124 #52746]  INFO -- : App started
+D, [2016-09-15T22:56:31.068140 #52746] DEBUG -- : Creating drone with options: {:name=>"Hollaholo"}
+D, [2016-09-15T22:56:31.068343 #52746] DEBUG -- : Drone created: #<Drone:0x007f84d1904f18 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T22:56:49.430708 #52768]  INFO -- : App started
+D, [2016-09-15T22:56:49.435616 #52768] DEBUG -- : Creating drone with options: {:name=>"Hollaholo"}
+D, [2016-09-15T22:56:49.435731 #52768] DEBUG -- : Drone created: #<Drone:0x007ff15b8194e0 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T22:57:08.599613 #52795]  INFO -- : App started
+D, [2016-09-15T22:57:08.604162 #52795] DEBUG -- : Creating drone with options: {:name=>"Hollaholo"}
+D, [2016-09-15T22:57:08.604250 #52795] DEBUG -- : Drone created: #<Drone:0x007fcad9020c50 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T22:57:14.902568 #52816]  INFO -- : App started
+D, [2016-09-15T22:57:14.907044 #52816] DEBUG -- : Creating drone with options: {:name=>"Hollaholo"}
+D, [2016-09-15T22:57:14.907150 #52816] DEBUG -- : Drone created: #<Drone:0x007f8b69100f30 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T22:57:43.545864 #52849]  INFO -- : App started
+D, [2016-09-15T22:57:43.551042 #52849] DEBUG -- : Creating drone with options: {:name=>"Hollaholo"}
+D, [2016-09-15T22:57:43.551172 #52849] DEBUG -- : Drone created: #<Drone:0x007fe299838410 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T22:57:49.063898 #52874]  INFO -- : App started
+D, [2016-09-15T22:57:49.068415 #52874] DEBUG -- : Creating drone with options: {:name=>"Hollaholo"}
+D, [2016-09-15T22:57:49.068515 #52874] DEBUG -- : Drone created: #<Drone:0x007f8b49864f58 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T22:59:09.950706 #52947]  INFO -- : App started
+D, [2016-09-15T22:59:09.956867 #52947] DEBUG -- : Creating drone with options: {:name=>"Hollaholo"}
+D, [2016-09-15T22:59:09.956989 #52947] DEBUG -- : Drone created: #<Drone:0x007fd451843a78 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T22:59:42.647953 #52971]  INFO -- : App started
+D, [2016-09-15T22:59:42.655907 #52971] DEBUG -- : Creating drone with options: {:name=>"Hollaholo"}
+D, [2016-09-15T22:59:42.656049 #52971] DEBUG -- : Drone created: #<Drone:0x007fdf2b005598 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T22:59:52.275282 #52997]  INFO -- : App started
+D, [2016-09-15T22:59:52.280675 #52997] DEBUG -- : Creating drone with options: {:name=>"Hollaholo"}
+D, [2016-09-15T22:59:52.280788 #52997] DEBUG -- : Drone created: #<Drone:0x007fd8aa044b58 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:02:24.335168 #53082]  INFO -- : App started
+D, [2016-09-15T23:02:24.339725 #53082] DEBUG -- : Creating drone with options: {:name=>"Hollaholo"}
+D, [2016-09-15T23:02:24.339811 #53082] DEBUG -- : Drone created: #<Drone:0x007fe6c4860738 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:02:45.439971 #53132]  INFO -- : App started
+D, [2016-09-15T23:02:45.444372 #53132] DEBUG -- : Creating drone with options: {:name=>"Hollaholo"}
+D, [2016-09-15T23:02:45.444490 #53132] DEBUG -- : Drone created: #<Drone:0x007fe099128d48 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:06:01.130808 #53162]  INFO -- : App started
+D, [2016-09-15T23:06:01.135643 #53162] DEBUG -- : Creating drone with options: {:name=>"Hollaholo"}
+D, [2016-09-15T23:06:01.135731 #53162] DEBUG -- : Drone created: #<Drone:0x007fece1824e18 @name="Hollaholo", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:06:28.495328 #53194]  INFO -- : App started
+D, [2016-09-15T23:06:28.499433 #53194] DEBUG -- : Creating drone with options: {:name=>"Helix15"}
+D, [2016-09-15T23:06:28.499512 #53194] DEBUG -- : Drone created: #<Drone:0x007ffb82100e98 @name="Helix15", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:06:53.851786 #53217]  INFO -- : App started
+D, [2016-09-15T23:06:53.855958 #53217] DEBUG -- : Creating drone with options: {:name=>"Helix15"}
+D, [2016-09-15T23:06:53.856050 #53217] DEBUG -- : Drone created: #<Drone:0x007fae02800b08 @name="Helix15", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:07:19.424248 #53239]  INFO -- : App started
+D, [2016-09-15T23:07:24.815048 #53239] DEBUG -- : Creating drone with options: {:name=>"Martin\n"}
+D, [2016-09-15T23:07:24.815183 #53239] DEBUG -- : Drone created: #<Drone:0x007fc82283d5c8 @name="Martin\n", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:08:19.211699 #53264]  INFO -- : App started
+I, [2016-09-15T23:08:42.235294 #53290]  INFO -- : App started
+D, [2016-09-15T23:08:46.501270 #53290] DEBUG -- : Creating drone with options: {:name=>"Martin\n"}
+D, [2016-09-15T23:08:46.501413 #53290] DEBUG -- : Drone created: #<Drone:0x007fe89d050ae0 @name="Martin\n", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:08:55.020670 #53315]  INFO -- : App started
+D, [2016-09-15T23:09:01.070176 #53315] DEBUG -- : Creating drone with options: {:name=>"Heli 12\n"}
+D, [2016-09-15T23:09:01.070328 #53315] DEBUG -- : Drone created: #<Drone:0x007f830c100b08 @name="Heli 12\n", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:09:27.707674 #53340]  INFO -- : App started
+D, [2016-09-15T23:09:30.196636 #53340] DEBUG -- : Creating drone with options: {:name=>"Helix 1\n"}
+D, [2016-09-15T23:09:30.196790 #53340] DEBUG -- : Drone created: #<Drone:0x007fafb081cec0 @name="Helix 1\n", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:10:36.758019 #53388]  INFO -- : App started
+D, [2016-09-15T23:10:42.424449 #53388] DEBUG -- : Creating drone with options: {:name=>"Roberto Blanco\n"}
+D, [2016-09-15T23:10:42.424959 #53388] DEBUG -- : Drone created: #<Drone:0x007fc572868988 @name="Roberto Blanco\n", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:10:54.428720 #53416]  INFO -- : App started
+D, [2016-09-15T23:10:56.506451 #53416] DEBUG -- : Creating drone with options: {:name=>"Roberto\n"}
+D, [2016-09-15T23:10:56.506589 #53416] DEBUG -- : Drone created: #<Drone:0x007fa0a4014fe0 @name="Roberto\n", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:11:59.037991 #53444]  INFO -- : App started
+D, [2016-09-15T23:12:00.057030 #53444] DEBUG -- : Creating drone with options: {:name=>"dsdsad\n"}
+D, [2016-09-15T23:12:00.057157 #53444] DEBUG -- : Drone created: #<Drone:0x007f85aa840da0 @name="dsdsad\n", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:13:33.749987 #53477]  INFO -- : App started
+D, [2016-09-15T23:13:35.064381 #53477] DEBUG -- : Creating drone with options: {:name=>"dasdsadasd"}
+D, [2016-09-15T23:13:35.064538 #53477] DEBUG -- : Drone created: #<Drone:0x007f9db2868ad8 @name="dasdsadasd", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:13:43.602288 #53499]  INFO -- : App started
+D, [2016-09-15T23:13:44.997872 #53499] DEBUG -- : Creating drone with options: {:name=>"dasdasdasd"}
+D, [2016-09-15T23:13:44.998025 #53499] DEBUG -- : Drone created: #<Drone:0x007f88ea004b08 @name="dasdasdasd", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:16:25.839048 #53540]  INFO -- : App started
+D, [2016-09-15T23:16:27.066069 #53540] DEBUG -- : Creating drone with options: {:name=>"dasdasda"}
+D, [2016-09-15T23:16:27.066223 #53540] DEBUG -- : Drone created: #<Drone:0x007f94ec07caf0 @name="dasdasda", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:27:59.586489 #53708]  INFO -- : App started
+D, [2016-09-15T23:28:09.811883 #53708] DEBUG -- : Creating drone with options: {:name=>""}
+D, [2016-09-15T23:28:09.812448 #53708] DEBUG -- : Drone created: #<Drone:0x007fefdb0b0ef0 @name="", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:28:18.343593 #53729]  INFO -- : App started
+D, [2016-09-15T23:28:30.351672 #53729] DEBUG -- : Creating drone with options: {:name=>""}
+D, [2016-09-15T23:28:30.351852 #53729] DEBUG -- : Drone created: #<Drone:0x007fa93b173d38 @name="", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:28:54.447891 #53753]  INFO -- : App started
+D, [2016-09-15T23:28:59.603933 #53753] DEBUG -- : Creating drone with options: {:name=>""}
+D, [2016-09-15T23:28:59.604084 #53753] DEBUG -- : Drone created: #<Drone:0x007fa314866910 @name="", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:29:15.109195 #53781]  INFO -- : App started
+D, [2016-09-15T23:29:16.322067 #53781] DEBUG -- : Creating drone with options: {:name=>#<Date: 2016-09-15 ((2457647j,0s,0n),+0s,2299161j)>}
+D, [2016-09-15T23:29:16.322197 #53781] DEBUG -- : Drone created: #<Drone:0x007fc35b092998 @name=#<Date: 2016-09-15 ((2457647j,0s,0n),+0s,2299161j)>, @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:29:29.153153 #53804]  INFO -- : App started
+D, [2016-09-15T23:29:29.854117 #53804] DEBUG -- : Creating drone with options: {:name=>"2016-09-15"}
+D, [2016-09-15T23:29:29.854275 #53804] DEBUG -- : Drone created: #<Drone:0x007fb9d18568e8 @name="2016-09-15", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:29:45.963980 #53829]  INFO -- : App started
+D, [2016-09-15T23:29:57.404822 #53829] DEBUG -- : Creating drone with options: {:name=>"\e[A"}
+D, [2016-09-15T23:29:57.404971 #53829] DEBUG -- : Drone created: #<Drone:0x007fc1a1999048 @name="\e[A", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:29:59.747176 #53855]  INFO -- : App started
+D, [2016-09-15T23:30:01.230284 #53855] DEBUG -- : Creating drone with options: {:name=>nil}
+D, [2016-09-15T23:30:01.230423 #53855] DEBUG -- : Drone created: #<Drone:0x007f937505b418 @name="Novice", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:30:46.355985 #53880]  INFO -- : App started
+D, [2016-09-15T23:30:48.805484 #53880] DEBUG -- : Creating drone with options: {:name=>nil}
+D, [2016-09-15T23:30:48.805601 #53880] DEBUG -- : Drone created: #<Drone:0x007f912389f1a0 @name="Novice", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:30:59.374129 #53907]  INFO -- : App started
+D, [2016-09-15T23:31:00.934066 #53907] DEBUG -- : Creating drone with options: {:name=>nil}
+D, [2016-09-15T23:31:00.934225 #53907] DEBUG -- : Drone created: #<Drone:0x007f9ca116b2d8 @name="Novice", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-15T23:49:07.087722 #53946]  INFO -- : App started
+D, [2016-09-15T23:49:08.171583 #53946] DEBUG -- : Creating drone with options: {:name=>nil}
+D, [2016-09-15T23:49:08.171739 #53946] DEBUG -- : Drone created: #<Drone:0x007fbdfc17b210 @name="Novice", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0>
+I, [2016-09-16T10:02:14.499410 #54355]  INFO -- : App started
+D, [2016-09-16T10:02:15.826434 #54355] DEBUG -- : Creating drone with options: {:name=>nil}
+D, [2016-09-16T10:02:15.826573 #54355] DEBUG -- : Drone created: #<MBDrones::Drone:0x007fec520acf58 @name="Novice", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0, @course=nil>
+I, [2016-09-16T10:22:00.620122 #54426]  INFO -- : App started
+D, [2016-09-16T10:22:14.136532 #54426] DEBUG -- : Creating drone with options: {:name=>"Martins tolle Drone, die umher fliegen kann"}
+D, [2016-09-16T10:22:14.137291 #54426] DEBUG -- : Drone created: #<MBDrones::Drone:0x007f8d230759d8 @name="Martins tolle Drone, die umher fliegen kann", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0, @course=nil>
+I, [2016-09-16T10:24:56.188204 #54494]  INFO -- : App started
+D, [2016-09-16T10:24:57.203264 #54494] DEBUG -- : Creating drone with options: {:name=>"fmdsfs,mn"}
+D, [2016-09-16T10:24:57.203392 #54494] DEBUG -- : Drone created: #<MBDrones::Drone:0x007feb128e8438 @name="fmdsfs,mn", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0, @course=nil>
+I, [2016-09-16T10:35:52.249684 #55123]  INFO -- : App started
+D, [2016-09-16T10:35:54.454758 #55123] DEBUG -- : Creating drone with options: {:name=>"Claudia"}
+D, [2016-09-16T10:35:54.454919 #55123] DEBUG -- : Drone created: #<MBDrones::Drone:0x007fa12c8d1330 @name="Claudia", @position={"latitude"=>49.718229, "longitude"=>7.626646}, @height=0, @baterry=100, @speed=0, @course=nil>
